@@ -1,1 +1,1 @@
-export { StackLayout as default } from "@navigation/layouts";
+export { RootLayout as default } from "@navigation/layouts";

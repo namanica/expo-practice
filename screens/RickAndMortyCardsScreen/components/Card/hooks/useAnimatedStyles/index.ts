@@ -1,0 +1,1 @@
+export { useAnimatedStyles } from "./useAnimatedStyles";

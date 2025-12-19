@@ -1,0 +1,3 @@
+export const QUERY_KEYS = {
+  RICK_AND_MORTY_CARDS: "RICK_AND_MORTY_CARDS",
+};

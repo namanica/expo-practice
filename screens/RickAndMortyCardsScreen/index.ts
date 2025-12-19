@@ -1,0 +1,1 @@
+export { RickAndMortyCardsScreen } from "./RickAndMortyCardsScreen";

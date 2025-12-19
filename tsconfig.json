@@ -5,7 +5,8 @@
     "paths": {
       "@/*": ["./*"],
       "@components/*": ["./components/*"],
-      "@navigation/*": ["./navigation/*"]
+      "@navigation/*": ["./navigation/*"],
+      "@screens/*": ["./screens/*"]
     }
   },
   "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]

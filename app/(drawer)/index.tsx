@@ -1,5 +1,1 @@
-const HomeScreen = () => {
-  return <></>;
-};
-
-export default HomeScreen;
+export { HomeScreen as default } from "@screens/HomeScreen";
