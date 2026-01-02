@@ -11,6 +11,14 @@ export const useStyles = () => {
           justifyContent: "center",
           gap: 24,
         },
+        typo: {
+          color: "white",
+        },
+        blackBlock: {
+          width: 200,
+          height: 50,
+          backgroundColor: "black",
+        },
       }),
     []
   );
